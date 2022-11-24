@@ -1,4 +1,4 @@
-<h1 align="center">Hi! you're with Sri aka @theconfusedindian/@thataccidentalaccountant</h1>
+<h1 align="center">Hi! you're with Sri aka @theconfusedindian</h1>
 <h3 align="center">A mobility tax accountant passionate about tech impact in modern world</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theconfusedindian&label=Profile%20views&color=0e75b6&style=flat" alt="theconfusedindian" /> </p>
