@@ -1,8 +1,6 @@
 <h1 align="center">Hi! you're with Sri aka @theconfusedindian</h1>
 <h3 align="center">A mobility tax accountant passionate about tech impact in modern world</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=theconfusedindian&label=Profile%20views&color=0e75b6&style=flat" alt="theconfusedindian" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theconfusedindian" alt="theconfusedindian" /></a> </p>
 
 - Currently working on my BS Capstone [Saral Yoga](bs-capstone-saral-yoga)
