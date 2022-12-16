@@ -3,11 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theconfusedindian" alt="theconfusedindian" /></a> </p>
 
-- Currently working on my BS Capstone [Saral Yoga](bs-capstone-saral-yoga)
-
-- 📫 How to reach me **sc.devop@gmail.com**
-
-- Checkout my collab server project [Instock-backend](https://github.com/theconfusedindian/instock-backend)
+- Currently working on my Brainstation's Capstone submission - [Saral Yoga](bs-capstone-saral-yoga)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
